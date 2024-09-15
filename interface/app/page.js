@@ -121,7 +121,7 @@ export default function Home() {
                   </h2>
                   <ul className="text-gray-500 dark:text-gray-400 font-medium">
                     <li className="mb-4">
-                      <a href="https://nextjs-chat-eta-teal.vercel.app/" className="hover:underline">
+                      <a href="https://wealthifyai-backup.onrender.com" className="hover:underline">
                         WealthifyAI MVP 
                       </a>
                     </li>
